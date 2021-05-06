@@ -2,7 +2,7 @@ aniso8601==5.1.0
 cachetools==3.1.1
 Click==7.0
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-RESTful==0.3.7
 Flask-SQLAlchemy==2.3.2
 getmac==0.7.0
